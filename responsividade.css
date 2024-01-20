@@ -1,0 +1,23 @@
+@media screen and (max-width: 760px){
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+    img{
+       display: none;
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #enviar{
+        align-self: center;
+    }
+
+}
